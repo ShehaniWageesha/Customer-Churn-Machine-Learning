@@ -1,8 +1,9 @@
 # Machine Learning Mini Project
 
 * Customer churn machine learning model that predicts whether a company's customers will stay with the company or not.
+* Dataset is available : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
-# **PROCESS**
+**PROCESS**
 
         1. Import Dependencies
         2. Handle Null Values (perform zero or mean/median imputation)
@@ -13,6 +14,3 @@
         7. Choose Correct Model
         8. Train the Model
         9. Evaluate the Model
-
-        
-* Dataset is available : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
